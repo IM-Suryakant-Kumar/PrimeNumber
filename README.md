@@ -4,6 +4,9 @@ A CLI App to check whether user's birthday is prime
 
 ## Preview
 
+![Preview)](https://user-images.githubusercontent.com/66691162/214770048-bf3bff70-e602-4790-9c2b-30afb75adb89.png)
+
+
 ## Want to use
 
 Goto [Link](https://replit.com/@IM-Suryakant-Ku/PrimeNumber?embed=1&output=1)
