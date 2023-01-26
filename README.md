@@ -16,9 +16,9 @@ It will calculate and show whether it's prime
 
 Determine if your bithday is prime
 
-validation of input
+Validation of input
 
-validate birth-date
+Validate birth-date
 
 ## Preview
 
