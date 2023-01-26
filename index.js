@@ -3,10 +3,10 @@ const chalk = require("chalk");
 const gradient = require("gradient-string");
 const info = chalk.red.bold;
 
-const userName = readlinesync.question(chalk.greenBright("Enter Your Name : "));
+const userName = readlinesync.question(chalk.cyanBright("Enter Your Name : "));
 console.log(gradient.rainbow(`Welcome ${userName}`));
 
-let dob = readlinesync.question(chalk.greenBright(`Enter Your birth-date in DD/MM Format : `));
+let dob = readlinesync.question(chalk.cyanBright(`Enter Your birth-date in DD/MM Format : `));
 dob = dob.replace("/", "");
 
 let userDD = dob.substring(0, 2);
